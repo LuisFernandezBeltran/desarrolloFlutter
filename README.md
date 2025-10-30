@@ -1,3 +1,3 @@
 # imc_aplication
 
-A new Flutter project.
+Aplicacion para medir el nivel de Indice de Masa corporal
